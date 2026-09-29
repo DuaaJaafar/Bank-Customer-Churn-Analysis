@@ -5,8 +5,8 @@ An interactive and comprehensive Excel dashboard designed to analyze bank custom
 ---
 
 ## 🖥️ Dashboard Overview
+<img src="Screenshot 2026-09-29 202638.png" width="100%">
 
-![Bank Customer Churn Dashboard](Screenshot 2026-09-29 202638.png)
 ---
 
 ## 🎯 Business Problem & Objective
