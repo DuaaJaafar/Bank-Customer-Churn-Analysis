@@ -1,12 +1,9 @@
-<img width="1365" height="753" alt="Screenshot 2026-29-9 20238" src="https://github.com/user-attachments/assets/d8f686f1-3728-489a-a2a9-e3e036c84f64" />
-# 📊 Bank Customer Churn Analysis Dashboard
-
 An interactive and comprehensive Excel dashboard designed to analyze bank customer churn behavior, uncover key attrition drivers, and deliver actionable insights for customer retention strategies.
 
 ---
 
 ## 🖥️ Dashboard Overview
-<img src="Screenshot 2026-09-29 202638.png" width="100%">
+<img width="1365" height="753" alt="Screenshot 2026-29-9 20238" src="https://github.com/user-attachments/assets/c17e1c08-9539-440f-8977-f37b1bab6e9c" />
 
 ---
 
