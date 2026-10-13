@@ -3,7 +3,8 @@ An interactive and comprehensive Excel dashboard designed to analyze bank custom
 ---
 
 ## 🖥️ Dashboard Overview
-<img width="1365" height="753" alt="Screenshot 2026-29-9 20238" src="https://github.com/user-attachments/assets/c17e1c08-9539-440f-8977-f37b1bab6e9c" />
+<img width="1405" height="689" alt="Churn DASHBOARD" src="https://github.com/user-attachments/assets/f47ef799-5283-4a9e-95d1-ebd5c644c2dc" />
+
 
 ---
 
